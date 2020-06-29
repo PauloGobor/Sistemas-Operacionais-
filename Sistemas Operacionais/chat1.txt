@@ -1,0 +1,12 @@
+Marcelo: São duas atividades: a primeira é o exercício sobre conversões de base e algumas operações binárias.
+Marcelo: O segundo é sobre o mapeamento ASCII.
+Marcelo: A tabela ASCII é utilizada para mapeamento de caracteres de texto comum (ex: Bloco de Notas).
+Marcelo: Para cada caracter, existe um código binário associado.
+Marcelo: É a forma como o processador entende os cartacteres de um editor de textos simples.
+Marcelo: Álém do código ASCII (um dos mais conhecidos), existem outras tabelas de código para caracteres, incluindo caracteres especiais, além de letras e números.
+ O segundo exercício é justamente decodificar os números binários em caracteres ASCII e ver o que está por trás daqueles números.
+: Para quem tiver dificuldades de ver a tabela ASC no exercício, pode utilizar por este link: https://pt.wikipedia.org/wiki/ASCII
+Marcelo: É do Wikipedia, mas é válido.
+
+
+Ezequiel, a resposta do primeiro (6398 em decimal) é 18FE em hexadecimal.***8
